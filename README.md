@@ -1,5 +1,14 @@
-### Hi there 👋
-
+# :vulcan_salute: Hi there! I am Nikita or Som3-b0dy :alien:  
+:globe_with_meridians: Currently I am studying in [School_21](https://21-school.ru/) in Moscow.
+### :screwdriver: Programming languages I have written projects with:
+- C
+- Bash
+### :notebook_with_decorative_cover: Programming languages I am learning:
+- C++
+- Go
+### :closed_lock_with_key: I am also interested in Cybersecurity.
+Here is my [TryHackMe](https://tryhackme.com/p/charliekilo90) profile.  
+### :gear: Project repositories and another information will be coming soon...
 <!--
 **Som3-b0dy/Som3-b0dy** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
