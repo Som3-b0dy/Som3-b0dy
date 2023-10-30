@@ -7,7 +7,7 @@
 - C++
 - Go
 ### :closed_lock_with_key: I am also interested in Cybersecurity.
-Here is my [TryHackMe](https://tryhackme.com/p/charliekilo90) profile.  
+I study it on HackTheBox and TryHackMe platforms. 
 ### :gear: Project repositories and another information will be coming soon...
 <!--
 **Som3-b0dy/Som3-b0dy** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
