@@ -3,11 +3,10 @@
 ### :screwdriver: Programming languages I have written projects with:
 - C
 - Bash
+- PostgreSQL
 ### :notebook_with_decorative_cover: Programming languages I am learning:
 - C++
-- Perl
 - Python
-- Assembly
 ### :closed_lock_with_key: I am also interested in Cybersecurity.
 I study it on HackTheBox and TryHackMe platforms. 
 ### :gear: Project repositories and another information will be coming soon...
