@@ -8,7 +8,7 @@
 - C++
 - Python
 ### :closed_lock_with_key: I am also interested in Cybersecurity.
-I study it on HackTheBox and TryHackMe platforms. 
+I study it on HackTheBox and TryHackMe platforms.  
 https://app.hackthebox.com/profile/1534952
 ### :gear: Project repositories and another information will be coming soon...
 <!--
