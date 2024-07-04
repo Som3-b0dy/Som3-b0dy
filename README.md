@@ -1,4 +1,4 @@
-# :vulcan_salute: Hi there! I am Nikita or Som3-b0dy :alien:  
+# :vulcan_salute: Hi there!
 :globe_with_meridians: Currently I am studying in [School_21](https://21-school.ru/) in Moscow.
 ### :screwdriver: Programming languages I have written projects with:
 - C
