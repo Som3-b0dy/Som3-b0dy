@@ -1,5 +1,5 @@
 # :vulcan_salute: Hi there!
-:globe_with_meridians: Currently I am studying in [School_21](https://21-school.ru/) in Moscow.
+Welcome to my page.
 ### :screwdriver: Programming languages I have written projects with:
 - C
 - Bash
