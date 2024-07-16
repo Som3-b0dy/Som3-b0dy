@@ -3,7 +3,7 @@ Welcome to my page.
 ### :screwdriver: Programming languages I have written projects with:
 - C
 - Bash
-- PostgreSQL
+- SQL
 ### :notebook_with_decorative_cover: Programming languages I am learning:
 - C++
 - Python
